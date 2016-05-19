@@ -1,0 +1,110 @@
+{"tag": "[1428335833.155698]successfully loginned", "type": "ok"}
+{"tag": "[1428335841.564179]\u5b9a\u4f4d\u5668\u5927\u9752\u86d9", "content": "\u5b9a\u4f4d\u5668\u5927\u9752\u86d9", "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku"}
+{"tag": "[1428335844.716359]\u5b9a\u4f4d\u5668", "content": "\u5b9a\u4f4d\u5668", "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku"}
+{"tag": "[1428335847.531521]dwdq ", "content": "dwdq ", "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku"}
+{"tag": "[1428336279.254214]successfully loginned", "type": "ok"}
+{"type": "ok", "tag": "[Tue Apr  7 22:33:00 2015]successfully loginned"}
+{"tag": "[Tue Apr  7 22:33:37 2015]successfully loginned", "type": "ok"}
+{"type": "ok", "tag": "[Tue Apr  7 22:37:38 2015]successfully loginned"}
+{"tag": "[Tue Apr  7 22:38:28 2015]successfully loginned", "type": "ok"}
+{"type": "ok", "tag": "[Tue Apr  7 22:40:06 2015]successfully loginned"}
+{"tag": "[Tue Apr  7 22:43:34 2015]successfully loginned", "type": "ok"}
+{"type": "ok", "tag": "[Tue Apr  7 22:44:53 2015]successfully loginned"}
+{"type": "ok", "tag": "[Tue Apr  7 22:45:46 2015]successfully loginned"}
+{"type": "ok", "tag": "[Tue Apr  7 22:46:56 2015]successfully loginned"}
+{"type": "ok", "tag": "[Tue Apr  7 22:55:41 2015]successfully loginned"}
+{"type": "error", "tag": "[Tue Apr  7 22:56:22 2015]server error, perhaps you are unregistered, details:('127.0.0.1', 1227)"}
+{"type": "error", "tag": "[Tue Apr  7 22:56:42 2015]kicked, because you have failed to send heartbeat pack frequently."}
+{"tag": "[Tue Apr  7 22:57:10 2015]successfully loginned", "type": "ok"}
+{"tag": "[Tue Apr  7 22:59:20 2015]successfully loginned", "type": "ok"}
+{"tag": "[Tue Apr  7 23:00:00 2015]server error, perhaps you are unregistered, details:('127.0.0.1', 1227)", "type": "error"}
+{"tag": "[Tue Apr  7 23:00:21 2015]kicked, because you have failed to send heartbeat pack frequently.", "type": "error"}
+{"tag": "[Tue Apr  7 23:00:40 2015]you are unloginned", "type": "error"}
+{"tag": "[Tue Apr  7 23:01:20 2015]you are unloginned", "type": "error"}
+{"type": "ok", "tag": "[Tue Apr  7 23:01:46 2015]successfully loginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:02:26 2015]server error, perhaps you are unregistered, details:('127.0.0.1', 1227)"}
+{"type": "ok", "tag": "[Tue Apr  7 23:03:24 2015]successfully loginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:04:04 2015]server error, perhaps you are unregistered, details:('127.0.0.1', 1227)"}
+{"type": "error", "tag": "[Tue Apr  7 23:04:25 2015]kicked, because you have failed to send heartbeat pack frequently."}
+{"type": "error", "tag": "[Tue Apr  7 23:04:44 2015]you are unloginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:05:24 2015]you are unloginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:06:04 2015]you are unloginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:06:44 2015]you are unloginned"}
+{"type": "error", "tag": "[Tue Apr  7 23:07:24 2015]server error, perhaps you are unregistered, details:('127.0.0.1', 1227)"}
+{"type": "ok", "tag": "[Tue Apr  7 23:07:33 2015]successfully loginned"}
+{"tag": "[Tue Apr  7 23:15:23 2015]successfully loginned", "type": "ok"}
+{"type": "ok", "password": "hplj9tcs", "tag": "[Tue Apr  7 23:36:54 2015]successfully registered", "username": "wscao"}
+{"type": "ok", "tag": "[Tue Apr  7 23:36:59 2015]successfully loginned"}
+{"username": "6hcrq", "password": "exo20rkm", "tag": "[Tue Apr  7 23:42:54 2015]successfully registered", "type": "ok"}
+{"tag": "[Tue Apr  7 23:42:54 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:02:09 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:02:09 2015]login failed, false username or password", "type": "error"}
+{"type": "error", "tag": "[Wed Apr  8 00:05:00 2015]login error, false username or password"}
+{"type": "ok", "password": "sr51xfvb", "username": "9jozm", "tag": "[Wed Apr  8 00:05:15 2015]successfully registered"}
+{"type": "ok", "tag": "[Wed Apr  8 00:05:15 2015]successfully loginned"}
+{"type": "error", "tag": "[Wed Apr  8 00:05:15 2015]login error, false username or password"}
+{"type": "error", "tag": "[Wed Apr  8 00:05:28 2015]failed, because you are over loginned"}
+{"type": "ok", "tag": "[Wed Apr  8 00:05:28 2015]successfully loginned"}
+{"type": "error", "tag": "[Wed Apr  8 00:05:28 2015]login error, false username or password"}
+{"type": "ok", "tag": "[Wed Apr  8 00:06:35 2015]successfully loginned"}
+{"type": "error", "tag": "[Wed Apr  8 00:06:35 2015]login error, false username or password"}
+{"tag": "[Wed Apr  8 00:07:07 2015]login error, false username or password", "type": "error"}
+{"tag": "[Wed Apr  8 00:08:39 2015]login error, false username or password", "type": "error"}
+{"tag": "[Wed Apr  8 00:08:58 2015]login error, false username or password", "type": "error"}
+{"tag": "[Wed Apr  8 00:09:17 2015]login error, false username or password", "type": "error"}
+{"tag": "[Wed Apr  8 00:10:40 2015]login error, false username or password", "type": "error"}
+{"type": "error", "tag": "[Wed Apr  8 00:11:16 2015]login failed, false username or password"}
+{"type": "ok", "tag": "[Wed Apr  8 00:13:49 2015]successfully loginned"}
+{"type": "error", "tag": "[Wed Apr  8 00:13:49 2015]login failed, false username or password"}
+{"type": "ok", "tag": "[Wed Apr  8 00:14:00 2015]successfully loginned"}
+{"type": "error", "tag": "[Wed Apr  8 00:14:00 2015]login failed, false username or password"}
+{"tag": "[Wed Apr  8 00:15:01 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:15:21 2015]failed, because you are over loginned", "type": "error"}
+{"tag": "[Wed Apr  8 00:15:21 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:15:42 2015]failed, because you are over loginned", "type": "error"}
+{"tag": "[Wed Apr  8 00:15:42 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:16:58 2015]successfully loginned", "type": "ok"}
+{"tag": "[Wed Apr  8 00:17:49 2015]failed, because you are over loginned", "type": "error"}
+{"tag": "[Wed Apr  8 00:17:49 2015]successfully loginned", "type": "ok"}
+{"tag": "[Thu Apr  9 12:15:23 2015]successfully loginned", "type": "ok"}
+{"content": "fgffffffffffffffff", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:15:27 2015]fgffffffffffffffff", "type": "pandanmuku"}
+{"content": "fffffff", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:15:28 2015]fffffff", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:16:41 2015]successfully loginned", "type": "ok"}
+{"content": "fffffff", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:16:45 2015]fffffff", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:17:57 2015]successfully loginned", "type": "ok"}
+{"content": "fsdgsdfghser", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:00 2015]fsdgsdfghser", "type": "pandanmuku"}
+{"content": "regsergse", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:01 2015]regsergse", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:18:47 2015]failed, because you are over loginned", "type": "error"}
+{"tag": "[Thu Apr  9 12:18:47 2015]successfully loginned", "type": "ok"}
+{"content": "egerghhrttttttttttttttt", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:49 2015]egerghhrttttttttttttttt", "type": "pandanmuku"}
+{"content": "dsgsdf", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:51 2015]dsgsdf", "type": "pandanmuku"}
+{"content": "grsegserrrrrrrrrrrrrrr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:53 2015]grsegserrrrrrrrrrrrrrr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:58 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:18:59 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:00 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:02 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:03 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:05 2015]", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:06 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:19:08 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:20:05 2015]failed, because you are over loginned", "type": "error"}
+{"tag": "[Thu Apr  9 12:20:05 2015]successfully loginned", "type": "ok"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:20:07 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:20:08 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:20:09 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:20:10 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:21:09 2015]successfully loginned", "type": "ok"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:21:12 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"tag": "[Thu Apr  9 12:21:30 2015]successfully loginned", "type": "ok"}
+{"content": "sgsrgergergsergsregsrdgr", "useragent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36", "tag": "[Thu Apr  9 12:21:34 2015]sgsrgergergsergsregsrdgr", "type": "pandanmuku"}
+{"type": "ok", "tag": "[Sat Apr 11 21:54:47 2015]successfully loginned"}
+{"useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku", "tag": "[Sat Apr 11 21:55:12 2015]ssa", "content": "ssa"}
+{"type": "ok", "tag": "[Sat Apr 11 22:02:26 2015]successfully loginned"}
+{"useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku", "tag": "[Sat Apr 11 22:02:29 2015]fsafwaefw", "content": "fsafwaefw"}
+{"type": "ok", "tag": "[Sat Apr 11 22:05:12 2015]successfully loginned"}
+{"type": "error", "tag": "[Sat Apr 11 22:05:24 2015]failed, because you are over loginned"}
+{"type": "ok", "tag": "[Sat Apr 11 22:05:24 2015]successfully loginned"}
+{"useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku", "tag": "[Sat Apr 11 22:05:41 2015]ds ", "content": "ds "}
+{"useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku", "tag": "[Sat Apr 11 22:05:44 2015]fdsafas\u8303\u5fb7\u8428\u53d1\u5a03\u513f", "content": "fdsafas\u8303\u5fb7\u8428\u53d1\u5a03\u513f"}
+{"type": "ok", "tag": "[Sat Apr 11 22:06:37 2015]successfully loginned"}
+{"useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36", "type": "pandanmuku", "tag": "[Sat Apr 11 22:06:40 2015]\u4f4e\u529f\u8017\u7684\u98ce\u683c", "content": "\u4f4e\u529f\u8017\u7684\u98ce\u683c"}
