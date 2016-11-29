@@ -1,10 +1,10 @@
 # Pandanmuku
 
-> Another CJSoft Production
+> Another CJSoft Product
 
 Pandanmuku是一套中心式弹幕系统，用户访问中心服务器在网页上发送弹幕，服务器将弹幕推送的客户机并在客户机的屏幕上进行显示。
 
-前端由python编写，使用原生wsgi，没有使用任何框架
+服务端由python编写，使用原生wsgi，没有使用任何框架
 
 ## server
 启动：`python pandanmuku.py`，其中服务器的Web前段端口将由源码中第249行决定，与客户机通讯的端口由247行决定。
